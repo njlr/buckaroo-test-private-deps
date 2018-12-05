@@ -1,0 +1,6 @@
+targets = []
+
+[[dependency]]
+package = "github.com/buckaroo-pm/catch2"
+version = "branch=master"
+private = true
