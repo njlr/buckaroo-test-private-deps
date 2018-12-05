@@ -4,3 +4,7 @@ targets = []
 package = "github.com/buckaroo-pm/catch2"
 version = "branch=master"
 private = true
+
+[[dependency]]
+package = "github.com/buckaroo-pm/pkg-config-cairo"
+version = "branch=master"
